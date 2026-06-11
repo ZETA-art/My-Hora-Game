@@ -56,6 +56,7 @@
 ## スクリーンショット
 
 タイトル画面：<img width="990" height="557" alt="スクリーンショット 2026-06-11 111329" src="https://github.com/user-attachments/assets/ae8628c1-118d-45f3-af86-3c733051a3da" />
+
 プレイ画面<img width="967" height="527" alt="スクリーンショット 2026-06-11 111957" src="https://github.com/user-attachments/assets/ff7003a1-b2cf-4ae0-934f-2b9c305175bb" />
 恋愛シミュレーションシーン<img width="988" height="552" alt="スクリーンショット 2026-06-11 111409" src="https://github.com/user-attachments/assets/467fc6f3-13dd-4dfc-98a1-198bb9567b4c" />
 
